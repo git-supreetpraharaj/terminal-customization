@@ -1,1 +1,1 @@
-# terminal-customization
+# Terminal Customization
