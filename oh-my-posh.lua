@@ -1,1 +1,1 @@
-load(io.popen('oh-my-posh init cmd --config "C:\\omp-theme\\custom.omp.json"'):read("*a"))()
+load(io.popen('oh-my-posh init cmd --config "C:\\omp-theme\\designer-terminal.omp.json"'):read("*a"))()

@@ -10,7 +10,7 @@ Import-Module -Name Terminal-Icons
 Import-Module z
 set-alias desktop "Desktop.ps1"
 
-oh-my-posh init pwsh --config "C:\omp-theme\custom.omp.json" | Invoke-Expression
+oh-my-posh init pwsh --config "C:\omp-theme\designer-terminal.omp.json" | Invoke-Expression
 
 
 Register-ArgumentCompleter -Native -CommandName winget -ScriptBlock {
